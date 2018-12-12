@@ -1,0 +1,29 @@
+Message: Interface\AddOns\OmniBar\Options.lua:120: bad argument #2 to 'format' (string expected, got nil)
+Time: Wed Dec 12 07:42:51 2018
+Count: 1
+Stack: Interface\AddOns\OmniBar\Options.lua:120: bad argument #2 to 'format' (string expected, got nil)
+[C]: in function `format'
+Interface\AddOns\OmniBar\Options.lua:120: in function `member'
+...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:220: in function <...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:168>
+...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:342: in function <...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:315>
+...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:959: in function <...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:955>
+...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:1012: in function <...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:989>
+...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:1670: in function `FeedGroup'
+...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:1508: in function <...nfig-3.0\AceConfigDialog-3.0\AceConfigDialog-3.0.lua:1492>
+[C]: ?
+...ace\AddOns\BigDebuffs\Libs\AceGUI-3.0\AceGUI-3.0.lua:71: in function <...ace\AddOns\BigDebuffs\Libs\AceGUI-3.0\AceGUI-3.0.lua:69>
+...ace\AddOns\BigDebuffs\Libs\AceGUI-3.0\AceGUI-3.0.lua:285: in function `Fire'
+...Libs\AceGUI-3.0\widgets\AceGUIContainer-TabGroup.lua:156: in function `SelectTab'
+...
+...ace\AddOns\BigDebuffs\Libs\AceGUI-3.0\AceGUI-3.0.lua:285: in function `Fire'
+...GUI-3.0\widgets\AceGUIContainer-BlizOptionsGroup.lua:20: in function <...GUI-3.0\widgets\AceGUIContainer-BlizOptionsGroup.lua:19>
+[C]: in function `Show'
+Interface\FrameXML\UIParent.lua:2635: in function `SetUIPanel'
+Interface\FrameXML\UIParent.lua:2441: in function `ShowUIPanel'
+Interface\FrameXML\UIParent.lua:2348: in function <Interface\FrameXML\UIParent.lua:2344>
+[C]: in function `SetAttribute'
+Interface\FrameXML\UIParent.lua:3176: in function `ShowUIPanel'
+Interface\FrameXML\UIParent.lua:3197: in function `ShowOptionsPanel'
+[string "*:OnClick"]:2: in function <[string "*:OnClick"]:1>
+
+Locals: <none>
